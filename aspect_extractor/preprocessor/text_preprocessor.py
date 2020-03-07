@@ -1,3 +1,11 @@
+"""
+Authors : Kumarage Tharindu & Paras Sheth
+Organization : DMML, ASU
+Project : Meta-Weak Supervision for Recommender Systems
+Task : Text preprocessor : Cleaning and pre-processing news data
+
+"""
+
 import re
 import unicodedata
 
